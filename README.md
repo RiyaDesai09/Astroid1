@@ -6,3 +6,5 @@ Rehearsal Repository
 ### New webside
 
 #### First github
+
+[Why its important to study C programming](one.md)
